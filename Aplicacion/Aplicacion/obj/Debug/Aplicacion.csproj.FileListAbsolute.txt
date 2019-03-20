@@ -1,0 +1,8 @@
+C:\Users\Lab3\Desktop\Parcial\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Users\Lab3\Desktop\Parcial\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Users\Lab3\Desktop\Parcial\Aplicacion\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\Lab3\Desktop\Parcial\Aplicacion\Aplicacion\bin\Debug\ClassLibrary1.dll
+C:\Users\Lab3\Desktop\Parcial\Aplicacion\Aplicacion\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lab3\Desktop\Parcial\Aplicacion\Aplicacion\obj\Debug\Aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Parcial\Aplicacion\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Users\Lab3\Desktop\Parcial\Aplicacion\Aplicacion\obj\Debug\Aplicacion.pdb
